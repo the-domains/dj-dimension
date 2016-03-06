@@ -1,0 +1,28 @@
+name: DJ Dimension
+favicon: null
+layout_spectrum: 0.8600770502816886
+typography_spectrum: 0.1992178475484252
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.28521034796722233
+  lightness: 0.5521714247297496
+  saturation: 0.8782680772710592
+  rhythmicContrast: 0.6972645162604749
+purpose: []
